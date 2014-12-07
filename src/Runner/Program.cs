@@ -1,9 +1,9 @@
- using System;
+using System;
 
-  public class Program
-  {
-      public static void Main()
-      {
-          Console.WriteLine("Hello K Runtime !");
-      }
-  }
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello K Runtime !");
+	}
+}
